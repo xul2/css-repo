@@ -18,11 +18,11 @@
 */
 
 :root {
-  --ocean-bg: url(https://devevil.com/betterdiscord/ocean-background.png);
-  --ocean-home-icon: url(https://devevil.com/betterdiscord/ocean-home-icon.png);
-  --ocean-color1: #00d5ce;
-  --ocean-color2: #0a173a;
-  --ocean-color3: #1487b1;
+  --ocean-bg: url(https://cdn.discordapp.com/attachments/1250235901792227338/1310796545050017822/96b46af8b3a75cd84d6f431c1be70375.png?ex=674685e9&is=67453469&hm=ba38aa2e4e516f62167a2679dd45e8e9cb9bd83edfd913ae9d56927f11c37792&);
+  --ocean-home-icon: url(https://cdn.discordapp.com/attachments/1250235901792227338/1310796545050017822/96b46af8b3a75cd84d6f431c1be70375.png?ex=674685e9&is=67453469&hm=ba38aa2e4e516f62167a2679dd45e8e9cb9bd83edfd913ae9d56927f11c37792&);
+  --ocean-color1: #ddb9c8;
+  --ocean-color2: #D3D3D3;
+  --ocean-color3: #ddb9c8;
   --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
