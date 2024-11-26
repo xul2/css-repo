@@ -103,7 +103,6 @@
   --popout-header-border: hsl(0,0%,100%,0.125);
   --separator-color: hsl(0,0%,100%,0.125);
   --header-secondary: hsl(0,0%,92%);
-  --profile-body-background-color: hsl(225,6%,14%);
   --input-color: hsl(240,4%,16%);
   --input-color-alt: hsl(240,2%,22%);
   --input-border-color: hsl(0,0%,29%);
@@ -168,7 +167,6 @@
   --popout-header-border: hsl(0,0%,80%);
   --separator-color: hsl(0,0%,0%,0.195);
   --header-secondary: hsl(0,0%,27%);
-  --profile-body-background-color: hsl(0,0%,93%);
   --input-color: hsl(0,0%,89%);
   --input-color-alt: hsl(0,0%,100%);
   --input-border-color: hsl(0,0%,66%);
@@ -217,33 +215,6 @@
  */
 * {
   font-family: var(--app-font), sans-serif !important;
-}
-
-::selection {
-  background: hsl(var(--accent-hsl), 0.35);
-  text-shadow: none;
-}
-
-body,
-.app_bd26cc,
-.appMount_ea7e65 {
-  background-color: transparent;
-}
-
-.appMount_ea7e65 {
-  background: var(--app-bg);
-}
-
-.bg_d4b6c5,
-.container_e40c16 {
-  background: var(--app-bg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
-
-.bg_d4b6c5.theme-dark {
-  background-color: var(--main-alt);
 }
 
 .platform-win .bg_d4b6c5 {
