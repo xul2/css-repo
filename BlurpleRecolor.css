@@ -65,7 +65,6 @@ body,
 #app-mount .applicationStore_cecc86,
 #app-mount .pageWrapper_a3a4ce,
 #app-mount .scrollerBase-_bVAAt,
-#app-mount .standardSidebarView_c25c6d,
 #app-mount .contentRegion_c25c6d {
 	background-color: transparent;
 }
@@ -76,8 +75,6 @@ body,
 	background-color: transparent;
 }
 #app-mount .container_fc4f04.themed_fc4f04,
-#app-mount .sidebarRegion_c25c6d,
-#app-mount .sidebar_a4d4d9,
 #app-mount .panels_a4d4d9,
 #app-mount .membersWrap_cbd271,
 #app-mount .nowPlayingColumn_c2739c {
@@ -98,10 +95,6 @@ body,
 
 .titleBar_a934d8 {
   background-image: var(--ocean-bg);
-}
-
-.sidebarRegionScroller_c25c6d, .contentRegionShownSidebar_c25c6d {
-  background-color: transparent;
 }
 
 .searchBar_f0963d {
